@@ -204,3 +204,13 @@ temp-*
 
 * Загружает историю из удалённого репозитория и объединяет её с локальной. pull = fetch + merge
 ---
+---
+---
+echo "# GitEducation" >> README.md
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bdotgeorge/GitEducation.git
+git push -u origin main
