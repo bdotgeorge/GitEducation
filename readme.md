@@ -217,4 +217,4 @@ temp-*
 > * git push -u origin main *(master) - *изменения отправляются на удаленный сервер *(-u (upstream))*
 
 
-# ***//https://github.com/bdotgeorge/GitEducation.git//***
+# ***https://github.com/bdotgeorge/GitEducation.git***
