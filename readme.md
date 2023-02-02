@@ -211,14 +211,3 @@ temp-*
 ---
 ---
 
-
-# ***Быстрый страрт (действия посмле создания репозитория на GitHub)***
-> * git init - *иницилизация католога в папке проекта (локальный репозитоорий)*
-> * git add README.md - *добавление файлов для отслеживания*
-> * git commit -m "first commit" *фиксация изменений*
-> * git branch -M main *(master) -  *создание ветки*
-> * git remote add origin https://github.com/username/repo.git - *устанавливается подключение к удаленному репозиторию*
-> * git push -u origin main *(master) - *изменения отправляются на удаленный сервер *(-u (upstream))*
-
-
-# ***https://github.com/bdotgeorge/GitEducation.git***
